@@ -35,4 +35,4 @@ Feel free to shoot me suggestions on features that would be nice to have in an e
 
 ---
 [^1]: [Luau Repository](https://github.com/luau-lang/luau?tab=readme-ov-file)
-[^2}: [Jolt Repository](https://github.com/jrouwe/JoltPhysics)
+[^2]: [Jolt Repository](https://github.com/jrouwe/JoltPhysics)
